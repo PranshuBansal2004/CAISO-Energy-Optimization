@@ -1,0 +1,86 @@
+[
+  {
+    "flex": 10,
+    "days_analyzed": 364,
+    "cost_dumb": 1741.18,
+    "cost_da": 1604.31,
+    "cost_perfect": 1308.38,
+    "savings_da_pct": 7.86,
+    "savings_perfect_pct": 24.86,
+    "gap_pct": 17.0,
+    "annual_savings_da": 49958.44,
+    "annual_savings_perfect": 157973.89
+  },
+  {
+    "flex": 20,
+    "days_analyzed": 364,
+    "cost_dumb": 1741.18,
+    "cost_da": 1477.06,
+    "cost_perfect": 1179.73,
+    "savings_da_pct": 15.17,
+    "savings_perfect_pct": 32.25,
+    "gap_pct": 17.08,
+    "annual_savings_da": 96405.18,
+    "annual_savings_perfect": 204931.01
+  },
+  {
+    "flex": 30,
+    "days_analyzed": 364,
+    "cost_dumb": 1741.18,
+    "cost_da": 1360.11,
+    "cost_perfect": 1066.62,
+    "savings_da_pct": 21.89,
+    "savings_perfect_pct": 38.74,
+    "gap_pct": 16.86,
+    "annual_savings_da": 139092.2,
+    "annual_savings_perfect": 246213.93
+  },
+  {
+    "flex": 40,
+    "days_analyzed": 364,
+    "cost_dumb": 1741.18,
+    "cost_da": 1256.41,
+    "cost_perfect": 967.44,
+    "savings_da_pct": 27.84,
+    "savings_perfect_pct": 44.44,
+    "gap_pct": 16.6,
+    "annual_savings_da": 176942.05,
+    "annual_savings_perfect": 282418.1
+  },
+  {
+    "flex": 50,
+    "days_analyzed": 364,
+    "cost_dumb": 1741.18,
+    "cost_da": 1173.28,
+    "cost_perfect": 887.44,
+    "savings_da_pct": 32.62,
+    "savings_perfect_pct": 49.03,
+    "gap_pct": 16.42,
+    "annual_savings_da": 207284.09,
+    "annual_savings_perfect": 311616.71
+  },
+  {
+    "flex": 60,
+    "days_analyzed": 364,
+    "cost_dumb": 1741.18,
+    "cost_da": 1111.77,
+    "cost_perfect": 827.7,
+    "savings_da_pct": 36.15,
+    "savings_perfect_pct": 52.46,
+    "gap_pct": 16.31,
+    "annual_savings_da": 229736.63,
+    "annual_savings_perfect": 333421.01
+  },
+  {
+    "flex": 70,
+    "days_analyzed": 364,
+    "cost_dumb": 1741.18,
+    "cost_da": 1063.71,
+    "cost_perfect": 782.02,
+    "savings_da_pct": 38.91,
+    "savings_perfect_pct": 55.09,
+    "gap_pct": 16.18,
+    "annual_savings_da": 247277.33,
+    "annual_savings_perfect": 350095.91
+  }
+]

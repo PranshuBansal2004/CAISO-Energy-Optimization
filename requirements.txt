@@ -1,0 +1,9 @@
+pandas
+numpy
+cvxpy
+ecos
+matplotlib
+gridstatus
+scikit-learn
+xgboost
+lightgbm

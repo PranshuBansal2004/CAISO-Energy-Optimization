@@ -1,0 +1,191 @@
+{
+  "by_hour": {
+    "0": {
+      "mean_abs_gap": 5.96,
+      "contribution_pct": 0.64
+    },
+    "1": {
+      "mean_abs_gap": 4.74,
+      "contribution_pct": 0.33
+    },
+    "2": {
+      "mean_abs_gap": 4.42,
+      "contribution_pct": 0.31
+    },
+    "3": {
+      "mean_abs_gap": 4.66,
+      "contribution_pct": 0.34
+    },
+    "4": {
+      "mean_abs_gap": 5.26,
+      "contribution_pct": 0.48
+    },
+    "5": {
+      "mean_abs_gap": 6.72,
+      "contribution_pct": 0.72
+    },
+    "6": {
+      "mean_abs_gap": 8.49,
+      "contribution_pct": 1.33
+    },
+    "7": {
+      "mean_abs_gap": 9.49,
+      "contribution_pct": 1.94
+    },
+    "8": {
+      "mean_abs_gap": 8.82,
+      "contribution_pct": 1.4
+    },
+    "9": {
+      "mean_abs_gap": 9.58,
+      "contribution_pct": 1.48
+    },
+    "10": {
+      "mean_abs_gap": 10.5,
+      "contribution_pct": 1.96
+    },
+    "11": {
+      "mean_abs_gap": 10.33,
+      "contribution_pct": 1.54
+    },
+    "12": {
+      "mean_abs_gap": 11.14,
+      "contribution_pct": 1.75
+    },
+    "13": {
+      "mean_abs_gap": 13.23,
+      "contribution_pct": 2.29
+    },
+    "14": {
+      "mean_abs_gap": 13.79,
+      "contribution_pct": 2.33
+    },
+    "15": {
+      "mean_abs_gap": 12.93,
+      "contribution_pct": 2.07
+    },
+    "16": {
+      "mean_abs_gap": 11.86,
+      "contribution_pct": 1.86
+    },
+    "17": {
+      "mean_abs_gap": 12.16,
+      "contribution_pct": 3.06
+    },
+    "18": {
+      "mean_abs_gap": 18.69,
+      "contribution_pct": 23.78
+    },
+    "19": {
+      "mean_abs_gap": 22.92,
+      "contribution_pct": 35.52
+    },
+    "20": {
+      "mean_abs_gap": 15.05,
+      "contribution_pct": 8.98
+    },
+    "21": {
+      "mean_abs_gap": 12.0,
+      "contribution_pct": 4.23
+    },
+    "22": {
+      "mean_abs_gap": 8.57,
+      "contribution_pct": 0.94
+    },
+    "23": {
+      "mean_abs_gap": 7.34,
+      "contribution_pct": 0.71
+    }
+  },
+  "by_month": {
+    "1": {
+      "mean_abs_gap": 13.2,
+      "contribution_pct": 5.68
+    },
+    "2": {
+      "mean_abs_gap": 9.64,
+      "contribution_pct": 2.59
+    },
+    "3": {
+      "mean_abs_gap": 10.6,
+      "contribution_pct": 3.64
+    },
+    "4": {
+      "mean_abs_gap": 11.31,
+      "contribution_pct": 3.8
+    },
+    "5": {
+      "mean_abs_gap": 8.67,
+      "contribution_pct": 2.17
+    },
+    "6": {
+      "mean_abs_gap": 7.75,
+      "contribution_pct": 1.6
+    },
+    "7": {
+      "mean_abs_gap": 16.11,
+      "contribution_pct": 45.74
+    },
+    "8": {
+      "mean_abs_gap": 8.75,
+      "contribution_pct": 6.85
+    },
+    "9": {
+      "mean_abs_gap": 11.57,
+      "contribution_pct": 20.89
+    },
+    "10": {
+      "mean_abs_gap": 9.88,
+      "contribution_pct": 2.97
+    },
+    "11": {
+      "mean_abs_gap": 8.86,
+      "contribution_pct": 2.09
+    },
+    "12": {
+      "mean_abs_gap": 7.87,
+      "contribution_pct": 1.99
+    }
+  },
+  "by_season": {
+    "Winter": {
+      "mean_abs_gap": 10.25,
+      "contribution_pct": 10.26
+    },
+    "Spring": {
+      "mean_abs_gap": 10.18,
+      "contribution_pct": 9.6
+    },
+    "Summer": {
+      "mean_abs_gap": 10.91,
+      "contribution_pct": 54.19
+    },
+    "Fall": {
+      "mean_abs_gap": 10.1,
+      "contribution_pct": 25.95
+    }
+  },
+  "by_day_of_week": {
+    "Monday": {
+      "mean_abs_gap": 9.33
+    },
+    "Tuesday": {
+      "mean_abs_gap": 11.33
+    },
+    "Wednesday": {
+      "mean_abs_gap": 11.01
+    },
+    "Thursday": {
+      "mean_abs_gap": 11.61
+    },
+    "Friday": {
+      "mean_abs_gap": 11.09
+    },
+    "Saturday": {
+      "mean_abs_gap": 8.95
+    },
+    "Sunday": {
+      "mean_abs_gap": 9.21
+    }
+  }
+}

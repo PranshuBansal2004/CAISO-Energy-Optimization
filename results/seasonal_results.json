@@ -1,0 +1,46 @@
+{
+  "Winter": {
+    "days": 91,
+    "avg_daily_cost_dumb": 2396.4,
+    "avg_daily_cost_da": 2017.45,
+    "avg_daily_cost_perfect": 1682.75,
+    "savings_da_pct": 15.81,
+    "savings_perfect_pct": 29.78,
+    "gap_pct": 13.97,
+    "avg_price_spread": 51.78,
+    "negative_price_pct": 3.94
+  },
+  "Spring": {
+    "days": 91,
+    "avg_daily_cost_dumb": 808.5,
+    "avg_daily_cost_da": 280.58,
+    "avg_daily_cost_perfect": -11.22,
+    "savings_da_pct": 65.3,
+    "savings_perfect_pct": 101.39,
+    "gap_pct": 36.09,
+    "avg_price_spread": 72.53,
+    "negative_price_pct": 32.55
+  },
+  "Summer": {
+    "days": 92,
+    "avg_daily_cost_dumb": 1853.92,
+    "avg_daily_cost_da": 1578.42,
+    "avg_daily_cost_perfect": 1292.71,
+    "savings_da_pct": 14.86,
+    "savings_perfect_pct": 30.27,
+    "gap_pct": 15.41,
+    "avg_price_spread": 83.21,
+    "negative_price_pct": 4.48
+  },
+  "Fall": {
+    "days": 90,
+    "avg_daily_cost_dumb": 1906.49,
+    "avg_daily_cost_da": 1563.83,
+    "avg_daily_cost_perfect": 1302.37,
+    "savings_da_pct": 17.97,
+    "savings_perfect_pct": 31.69,
+    "gap_pct": 13.71,
+    "avg_price_spread": 64.53,
+    "negative_price_pct": 3.98
+  }
+}

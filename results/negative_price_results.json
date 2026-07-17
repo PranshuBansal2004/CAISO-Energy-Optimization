@@ -1,0 +1,63 @@
+{
+  "timezone": "America/Los_Angeles",
+  "day_ahead": {
+    "total_hours": 8784,
+    "negative_hours": 989,
+    "negative_pct": 11.26,
+    "avg_negative_price": -17.15,
+    "min_price": -63.09,
+    "revenue_at_1mw": 16957.73
+  },
+  "real_time": {
+    "total_intervals": 35136,
+    "negative_intervals": 4369,
+    "negative_pct": 12.43,
+    "avg_negative_price": -21.23,
+    "min_price": -75.64
+  },
+  "negative_by_hour": {
+    "0": NaN,
+    "1": NaN,
+    "2": NaN,
+    "3": NaN,
+    "4": NaN,
+    "5": NaN,
+    "6": NaN,
+    "7": 6.01,
+    "8": 20.22,
+    "9": 27.6,
+    "10": 30.33,
+    "11": 32.24,
+    "12": 33.88,
+    "13": 34.15,
+    "14": 31.15,
+    "15": 27.32,
+    "16": 18.58,
+    "17": 8.74,
+    "18": NaN,
+    "19": NaN,
+    "20": NaN,
+    "21": NaN,
+    "22": NaN,
+    "23": NaN
+  },
+  "negative_by_month": {
+    "1": NaN,
+    "2": 12.21,
+    "3": 29.21,
+    "4": 32.36,
+    "5": 36.02,
+    "6": 11.53,
+    "7": NaN,
+    "8": 2.15,
+    "9": 4.31,
+    "10": 2.28,
+    "11": 5.27,
+    "12": 0.13
+  },
+  "free_computation": {
+    "hours_available": 989,
+    "mwh_at_1mw": 989,
+    "revenue_at_1mw": 16957.73
+  }
+}
