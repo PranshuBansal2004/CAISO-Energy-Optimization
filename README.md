@@ -98,9 +98,3 @@ results/              generated charts and json files
   your guess is honestly a pretty strong baseline, XGBoost and LightGBM
   only did slightly better
 
-## Still need to do
-
-- try 5 min real time intervals instead of aggregating to hourly
-- add semi flexible jobs with deadlines instead of just fully flexible
-- maybe look into LSTM for the forecasting since the gap analysis showed
-  theres real time correlation the current models arent fully using
